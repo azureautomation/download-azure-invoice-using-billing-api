@@ -1,0 +1,20 @@
+{
+    "Author": "AvihaiH",
+    "ContentSize": 721,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/download-azure-invoice-using-billing-api/master/Azure-Invoices.ps1",
+    "DownloadCount": 824,
+    "Id": "Azure-invoice-using-ea2e961b",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 85,
+    "RaterCount": 4,
+    "Rating": 5.0,
+    "ReleaseDate": "2017-7-9T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Download Azure invoices using Azure Billing API.This script will help you to download all invoices for a specific\u00a0subscription.Note: currently billing information is only viewable for non-enterprise subscription",
+    "Title": "Download Azure invoice using Billing API",
+    "UpdatedDate": "2017-7-9T00:00:00",
+    "Url": "https://github.com/azureautomation/download-azure-invoice-using-billing-api",
+    "UserTags": "Microsoft Azure, Powershell, Billing"
+}
